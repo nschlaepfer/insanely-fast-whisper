@@ -1,0 +1,9 @@
+{
+    "start": "ui.py",
+    "menu": [
+      {
+        "html": "<i class='fa-solid fa-plug'></i> Install",
+        "href": "install.json"
+      }
+    ]
+  }
