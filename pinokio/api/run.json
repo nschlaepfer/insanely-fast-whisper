@@ -1,0 +1,7 @@
+{
+    "run": [{
+      "uri": "./api.js",
+      "method": "yourMethodName",
+      "params": ["param1", "param2"]
+    }]
+  }

@@ -1,5 +1,8 @@
 # Insanely Fast Whisper
 
+PINOKIO INSTALL BY @NSCHLAEPFER (@nos_ult on twitter)
+pinokio://?mode=download&url=https://github.com/nschlaepfer/insanely-fast-whisper.git
+
 An opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 *Transformers*, *Optimum* & *flash-attn*
 
 **TL;DR** - Transcribe **150** minutes (2.5 hours) of audio in less than **98** seconds - with [OpenAI's Whisper Large v3](https://huggingface.co/openai/whisper-large-v3). Blazingly fast transcription is now a reality!⚡️

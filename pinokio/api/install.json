@@ -1,0 +1,10 @@
+{
+    "run": [
+      {
+        "method": "shell.run",
+        "params": {
+          "message": "{{try { return os.platform() === 'win32' ? 'python -m pip install -r requirements.txt' : (os.platform() === 'darwin' ? 'pip3 install -r requirements.txt' : 'pip install -r requirements.txt'); } catch (error) { console.log('Error:', error); }}}"
+        }
+      }
+    ]
+  }
